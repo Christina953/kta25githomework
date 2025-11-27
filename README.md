@@ -5,3 +5,5 @@
 - Today is Monday Nov 24
 - Today is Tuesday Nov 25
 - Today is Wednesday Nov 26
+- Today is Thursday Nov 27
+  
