@@ -9,4 +9,5 @@
 - Today is Friday Nov 28
 - Today is Saturday Nov 29
 - Today is Sunday Nov 30
-  
+- Yesterday was Monday Dec 1
+- 
