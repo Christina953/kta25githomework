@@ -11,4 +11,5 @@
 - Today is Sunday Nov 30
 - Yesterday was Monday Dec 1
 - Today is Tuesday Dec 2
+- Today is Wednesday Dec 3
 - 
