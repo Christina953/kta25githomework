@@ -13,4 +13,5 @@
 - Today is Tuesday Dec 2
 - Today is Wednesday Dec 3
 - Today is Thursday Dec 4
+- Today is Friday Dec 5
 - 
