@@ -16,4 +16,5 @@
 - Today is Friday Dec 5
 - Today is Saturday Dec 6
 - Yesterday was Sunday Dec 7
+- Today is Monday Dec 8
 - 
