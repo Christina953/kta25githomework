@@ -25,4 +25,5 @@
   Sunday was on Dec 14
   Monday was Dec 15
 - Tuesday was Dec 16
+- Wednesday was Dec 17
 - 
