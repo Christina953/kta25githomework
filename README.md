@@ -26,4 +26,5 @@
   Monday was Dec 15
 - Tuesday was Dec 16
 - Wednesday was Dec 17
+- Today is Thursday Dec 18
 - 
