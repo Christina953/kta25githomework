@@ -31,4 +31,5 @@
 - Saturday was on Dec 20
 - Sunday was on Dec 21
 - Monday was on Dec 22
+- Kuu aega on täis. Ülesanne täidetud.
 - 
